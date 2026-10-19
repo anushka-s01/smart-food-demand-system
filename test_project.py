@@ -8,10 +8,10 @@ import tempfile
 import unittest
 
 from data_processing import DATA_PATH, load_and_validate_data, prepare_features
-from database import get_prediction_history, init_db, save_prediction
+from database import get_connection, get_prediction_history, init_db, save_prediction
 from food_logic import calculate_food_requirement
 from model import predict_demand, prediction_engine_status
-from seed_demo_history import seed_demo_history_if_empty
+from seed_demo_history import ensure_demo_history
 
 
 class DatasetTests(unittest.TestCase):
@@ -103,15 +103,45 @@ class DatabaseTests(unittest.TestCase):
         self.assertEqual(int(history.iloc[0]["predicted_attendance"]), 520)
 
     def test_fresh_database_is_seeded_once(self) -> None:
-        added, skipped, removed = seed_demo_history_if_empty(count=300)
+        added, skipped, removed = ensure_demo_history(count=300)
         self.assertEqual((added, skipped, removed), (300, 0, 0))
         history = get_prediction_history()
         self.assertEqual(len(history), 300)
         self.assertEqual(set(history["record_source"]), {"Synthetic demo"})
 
-        second_run = seed_demo_history_if_empty(count=300)
+        second_run = ensure_demo_history(count=300)
         self.assertEqual(second_run, (0, 0, 0))
         self.assertEqual(len(get_prediction_history()), 300)
+
+    def test_duplicate_demo_rows_are_repaired_without_removing_user_rows(self) -> None:
+        ensure_demo_history(count=300)
+        save_prediction(
+            "2026-10-19", "Monday", "Lunch", "Biryani", "No", "No",
+            500, 520, 546, 26, "Low", "2026-10-19 12:00:00",
+        )
+        with get_connection() as connection:
+            connection.execute(
+                """
+                INSERT INTO predictions (
+                    prediction_date, day, meal, menu, holiday, exam_period,
+                    previous_attendance, predicted_attendance, recommended_food,
+                    expected_wastage, wastage_risk, created_at, record_source
+                )
+                SELECT prediction_date, day, meal, menu, holiday, exam_period,
+                    previous_attendance, predicted_attendance, recommended_food,
+                    expected_wastage, wastage_risk, created_at, record_source
+                FROM predictions WHERE record_source = 'Synthetic demo'
+                """
+            )
+
+        added, skipped, removed = ensure_demo_history(count=300)
+        self.assertEqual((added, skipped, removed), (300, 0, 600))
+        history = get_prediction_history()
+        self.assertEqual(len(history), 301)
+        self.assertEqual(
+            history["record_source"].value_counts().to_dict(),
+            {"Synthetic demo": 300, "User prediction": 1},
+        )
 
 
 if __name__ == "__main__":

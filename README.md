@@ -46,8 +46,9 @@ Open the local URL shown in the terminal, usually `http://localhost:8501`.
 
 On a fresh installation or Streamlit Community Cloud deployment, the app
 automatically creates 300 realistic sample records when the prediction database
-is empty. It never replaces or modifies existing history, and every generated
-row is labelled `Synthetic demo` rather than measured campus activity.
+starts. The startup check is transaction-safe, repairs duplicate demo rows, and
+never removes user predictions. Every generated row is labelled `Synthetic demo`
+rather than measured campus activity.
 
 To recreate the demonstration history manually during local development, run:
 

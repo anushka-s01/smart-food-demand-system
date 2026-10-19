@@ -13,7 +13,7 @@ from data_processing import DAYS, MEALS, MENUS, YES_NO_VALUES
 from database import get_prediction_history, init_db, save_prediction
 from food_logic import calculate_food_requirement
 from model import predict_demand, prediction_engine_status
-from seed_demo_history import seed_demo_history_if_empty
+from seed_demo_history import ensure_demo_history
 
 
 APP_TITLE = "Smart Food Demand Prediction and Waste Reduction System"
@@ -329,7 +329,7 @@ except Exception as exc:
     st.stop()
 
 try:
-    seed_demo_history_if_empty(count=300)
+    ensure_demo_history(count=300)
 except Exception as exc:
     st.warning(
         "The application is ready, but its synthetic demonstration history "

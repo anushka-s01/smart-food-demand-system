@@ -21,7 +21,7 @@ def _database_path() -> Path:
 def get_connection() -> sqlite3.Connection:
     path = _database_path()
     path.parent.mkdir(parents=True, exist_ok=True)
-    return sqlite3.connect(path)
+    return sqlite3.connect(path, timeout=30)
 
 
 def init_db() -> None:
