@@ -1,0 +1,301 @@
+Date,Day,Meal,Menu,Holiday,Exam_Period,Previous_Attendance,Actual_Attendance,Food_Prepared,Food_Wasted
+2026-01-01,Thursday,Breakfast,Idli Sambar,No,No,500,472,489,14
+2026-01-01,Thursday,Lunch,Biryani,No,No,472,568,600,34
+2026-01-01,Thursday,Dinner,Roti Sabzi,No,No,568,568,593,26
+2026-01-02,Friday,Breakfast,Upma,Yes,No,568,381,410,27
+2026-01-02,Friday,Lunch,Dal Rice,No,No,381,448,474,27
+2026-01-02,Friday,Dinner,Paneer Roti,No,No,448,551,600,48
+2026-01-03,Saturday,Breakfast,Upma,No,No,551,449,475,24
+2026-01-03,Saturday,Lunch,Rajma Chawal,No,No,449,507,548,41
+2026-01-03,Saturday,Dinner,Paneer Roti,No,No,507,535,557,22
+2026-01-04,Sunday,Breakfast,Poha,No,No,535,417,449,31
+2026-01-04,Sunday,Lunch,Veg Pulao,No,Yes,417,425,450,20
+2026-01-04,Sunday,Dinner,Chole Rice,No,No,425,465,495,32
+2026-01-05,Monday,Breakfast,Aloo Paratha,No,No,465,445,481,33
+2026-01-05,Monday,Lunch,Dal Rice,Yes,No,445,398,426,27
+2026-01-05,Monday,Dinner,Chole Rice,No,No,398,467,486,18
+2026-01-06,Tuesday,Breakfast,Upma,Yes,No,467,318,331,13
+2026-01-06,Tuesday,Lunch,Biryani,No,No,318,455,477,22
+2026-01-06,Tuesday,Dinner,Roti Sabzi,No,Yes,455,427,464,38
+2026-01-07,Wednesday,Breakfast,Poha,No,No,427,383,411,26
+2026-01-07,Wednesday,Lunch,Veg Pulao,No,Yes,383,434,459,20
+2026-01-07,Wednesday,Dinner,Chole Rice,No,Yes,434,430,462,31
+2026-01-08,Thursday,Breakfast,Poha,No,No,430,420,449,26
+2026-01-08,Thursday,Lunch,Biryani,Yes,No,420,440,457,21
+2026-01-08,Thursday,Dinner,Dal Khichdi,No,Yes,440,412,439,23
+2026-01-09,Friday,Breakfast,Aloo Paratha,Yes,No,412,287,309,24
+2026-01-09,Friday,Lunch,Veg Pulao,No,No,287,406,432,20
+2026-01-09,Friday,Dinner,Paneer Roti,No,No,406,471,486,18
+2026-01-10,Saturday,Breakfast,Poha,No,Yes,471,350,363,12
+2026-01-10,Saturday,Lunch,Dal Rice,No,No,350,410,425,14
+2026-01-10,Saturday,Dinner,Dal Khichdi,No,Yes,410,370,389,17
+2026-01-11,Sunday,Breakfast,Poha,No,No,370,331,351,20
+2026-01-11,Sunday,Lunch,Biryani,No,Yes,331,406,429,20
+2026-01-11,Sunday,Dinner,Roti Sabzi,No,No,406,417,442,28
+2026-01-12,Monday,Breakfast,Upma,No,No,417,398,412,18
+2026-01-12,Monday,Lunch,Rajma Chawal,No,No,398,514,555,41
+2026-01-12,Monday,Dinner,Dal Khichdi,No,No,514,490,514,25
+2026-01-13,Tuesday,Breakfast,Poha,No,Yes,490,413,431,18
+2026-01-13,Tuesday,Lunch,Biryani,No,Yes,413,496,532,33
+2026-01-13,Tuesday,Dinner,Dal Khichdi,No,No,496,473,491,17
+2026-01-14,Wednesday,Breakfast,Idli Sambar,No,No,473,445,484,39
+2026-01-14,Wednesday,Lunch,Biryani,Yes,No,445,447,463,16
+2026-01-14,Wednesday,Dinner,Paneer Roti,No,No,447,546,593,47
+2026-01-15,Thursday,Breakfast,Poha,No,Yes,546,469,506,36
+2026-01-15,Thursday,Lunch,Rajma Chawal,No,No,469,517,559,48
+2026-01-15,Thursday,Dinner,Dal Khichdi,No,No,517,511,553,38
+2026-01-16,Friday,Breakfast,Poha,No,No,511,430,464,42
+2026-01-16,Friday,Lunch,Biryani,No,Yes,430,541,567,26
+2026-01-16,Friday,Dinner,Roti Sabzi,No,Yes,541,506,526,16
+2026-01-17,Saturday,Breakfast,Aloo Paratha,Yes,Yes,506,311,331,23
+2026-01-17,Saturday,Lunch,Dal Rice,No,No,311,381,412,29
+2026-01-17,Saturday,Dinner,Chole Rice,No,No,381,460,490,31
+2026-01-18,Sunday,Breakfast,Idli Sambar,Yes,No,460,302,313,14
+2026-01-18,Sunday,Lunch,Dal Rice,No,Yes,302,362,392,27
+2026-01-18,Sunday,Dinner,Roti Sabzi,No,No,362,389,419,30
+2026-01-19,Monday,Breakfast,Upma,No,No,389,312,329,17
+2026-01-19,Monday,Lunch,Veg Pulao,No,Yes,312,357,377,25
+2026-01-19,Monday,Dinner,Dal Khichdi,No,No,357,396,424,27
+2026-01-20,Tuesday,Breakfast,Poha,No,No,396,398,418,21
+2026-01-20,Tuesday,Lunch,Biryani,No,No,398,509,544,33
+2026-01-20,Tuesday,Dinner,Paneer Roti,No,No,509,571,618,47
+2026-01-21,Wednesday,Breakfast,Upma,Yes,No,571,397,431,34
+2026-01-21,Wednesday,Lunch,Veg Pulao,No,No,397,505,544,37
+2026-01-21,Wednesday,Dinner,Paneer Roti,No,No,505,542,578,35
+2026-01-22,Thursday,Breakfast,Upma,No,No,542,427,453,26
+2026-01-22,Thursday,Lunch,Biryani,No,No,427,525,545,16
+2026-01-22,Thursday,Dinner,Paneer Roti,Yes,No,525,478,515,39
+2026-01-23,Friday,Breakfast,Aloo Paratha,No,No,478,463,487,24
+2026-01-23,Friday,Lunch,Rajma Chawal,No,Yes,463,521,550,29
+2026-01-23,Friday,Dinner,Roti Sabzi,No,No,521,530,561,31
+2026-01-24,Saturday,Breakfast,Aloo Paratha,No,No,530,487,505,24
+2026-01-24,Saturday,Lunch,Biryani,No,No,487,546,563,20
+2026-01-24,Saturday,Dinner,Chole Rice,No,No,546,512,541,30
+2026-01-25,Sunday,Breakfast,Aloo Paratha,No,Yes,512,389,421,31
+2026-01-25,Sunday,Lunch,Biryani,No,Yes,389,459,475,16
+2026-01-25,Sunday,Dinner,Paneer Roti,No,Yes,459,472,492,19
+2026-01-26,Monday,Breakfast,Idli Sambar,No,Yes,472,405,418,8
+2026-01-26,Monday,Lunch,Biryani,No,No,405,507,547,40
+2026-01-26,Monday,Dinner,Paneer Roti,No,No,507,579,598,17
+2026-01-27,Tuesday,Breakfast,Idli Sambar,No,No,579,514,556,41
+2026-01-27,Tuesday,Lunch,Dal Rice,No,No,514,544,583,44
+2026-01-27,Tuesday,Dinner,Chole Rice,Yes,No,544,467,506,34
+2026-01-28,Wednesday,Breakfast,Aloo Paratha,No,Yes,467,413,450,36
+2026-01-28,Wednesday,Lunch,Veg Pulao,No,No,413,496,539,42
+2026-01-28,Wednesday,Dinner,Paneer Roti,No,No,496,541,588,48
+2026-01-29,Thursday,Breakfast,Poha,No,No,541,509,528,19
+2026-01-29,Thursday,Lunch,Veg Pulao,No,No,509,564,602,38
+2026-01-29,Thursday,Dinner,Roti Sabzi,No,No,564,537,554,17
+2026-01-30,Friday,Breakfast,Poha,No,No,537,451,480,28
+2026-01-30,Friday,Lunch,Veg Pulao,No,No,451,511,543,29
+2026-01-30,Friday,Dinner,Chole Rice,No,No,511,544,584,40
+2026-01-31,Saturday,Breakfast,Idli Sambar,No,No,544,449,471,20
+2026-01-31,Saturday,Lunch,Biryani,No,Yes,449,511,552,42
+2026-01-31,Saturday,Dinner,Roti Sabzi,No,Yes,511,484,520,35
+2026-02-01,Sunday,Breakfast,Poha,No,No,484,431,448,15
+2026-02-01,Sunday,Lunch,Veg Pulao,No,No,431,522,562,39
+2026-02-01,Sunday,Dinner,Roti Sabzi,No,No,522,497,531,34
+2026-02-02,Monday,Breakfast,Aloo Paratha,No,Yes,497,431,466,39
+2026-02-02,Monday,Lunch,Dal Rice,No,No,431,514,534,24
+2026-02-02,Monday,Dinner,Paneer Roti,Yes,No,514,460,487,26
+2026-02-03,Tuesday,Breakfast,Poha,No,No,460,421,440,20
+2026-02-03,Tuesday,Lunch,Dal Rice,No,No,421,469,490,19
+2026-02-03,Tuesday,Dinner,Dal Khichdi,No,No,469,473,509,36
+2026-02-04,Wednesday,Breakfast,Aloo Paratha,No,No,473,461,488,27
+2026-02-04,Wednesday,Lunch,Rajma Chawal,No,No,461,524,558,31
+2026-02-04,Wednesday,Dinner,Dal Khichdi,No,No,524,501,528,28
+2026-02-05,Thursday,Breakfast,Poha,No,Yes,501,431,449,18
+2026-02-05,Thursday,Lunch,Veg Pulao,No,No,431,476,490,14
+2026-02-05,Thursday,Dinner,Paneer Roti,No,No,476,507,541,37
+2026-02-06,Friday,Breakfast,Upma,No,No,507,422,454,29
+2026-02-06,Friday,Lunch,Biryani,No,No,422,511,543,32
+2026-02-06,Friday,Dinner,Dal Khichdi,No,No,511,541,582,40
+2026-02-07,Saturday,Breakfast,Upma,No,Yes,541,408,432,26
+2026-02-07,Saturday,Lunch,Biryani,No,No,408,487,504,16
+2026-02-07,Saturday,Dinner,Dal Khichdi,No,No,487,480,495,10
+2026-02-08,Sunday,Breakfast,Upma,No,No,480,374,403,27
+2026-02-08,Sunday,Lunch,Dal Rice,No,No,374,430,449,23
+2026-02-08,Sunday,Dinner,Roti Sabzi,Yes,No,430,320,330,9
+2026-02-09,Monday,Breakfast,Upma,No,No,320,290,314,28
+2026-02-09,Monday,Lunch,Biryani,No,No,290,431,451,20
+2026-02-09,Monday,Dinner,Paneer Roti,No,Yes,431,482,517,37
+2026-02-10,Tuesday,Breakfast,Aloo Paratha,No,No,482,458,488,25
+2026-02-10,Tuesday,Lunch,Biryani,No,No,458,591,613,27
+2026-02-10,Tuesday,Dinner,Roti Sabzi,No,Yes,591,533,569,39
+2026-02-11,Wednesday,Breakfast,Idli Sambar,No,No,533,478,508,29
+2026-02-11,Wednesday,Lunch,Rajma Chawal,No,No,478,551,585,27
+2026-02-11,Wednesday,Dinner,Paneer Roti,No,No,551,574,600,28
+2026-02-12,Thursday,Breakfast,Idli Sambar,No,No,574,516,556,40
+2026-02-12,Thursday,Lunch,Dal Rice,No,No,516,574,614,39
+2026-02-12,Thursday,Dinner,Dal Khichdi,No,Yes,574,517,562,45
+2026-02-13,Friday,Breakfast,Idli Sambar,No,Yes,517,399,413,12
+2026-02-13,Friday,Lunch,Dal Rice,Yes,No,399,359,377,18
+2026-02-13,Friday,Dinner,Roti Sabzi,No,No,359,428,459,29
+2026-02-14,Saturday,Breakfast,Upma,No,No,428,362,375,10
+2026-02-14,Saturday,Lunch,Rajma Chawal,Yes,No,362,308,323,17
+2026-02-14,Saturday,Dinner,Chole Rice,No,No,308,390,407,13
+2026-02-15,Sunday,Breakfast,Upma,No,No,390,340,369,26
+2026-02-15,Sunday,Lunch,Rajma Chawal,No,Yes,340,401,416,15
+2026-02-15,Sunday,Dinner,Dal Khichdi,Yes,No,401,314,326,6
+2026-02-16,Monday,Breakfast,Poha,No,No,314,275,283,10
+2026-02-16,Monday,Lunch,Dal Rice,No,Yes,275,343,371,28
+2026-02-16,Monday,Dinner,Roti Sabzi,No,No,343,430,452,20
+2026-02-17,Tuesday,Breakfast,Upma,No,No,430,396,413,18
+2026-02-17,Tuesday,Lunch,Veg Pulao,Yes,Yes,396,312,322,9
+2026-02-17,Tuesday,Dinner,Dal Khichdi,No,No,312,396,415,19
+2026-02-18,Wednesday,Breakfast,Idli Sambar,No,Yes,396,332,345,13
+2026-02-18,Wednesday,Lunch,Veg Pulao,No,Yes,332,402,438,38
+2026-02-18,Wednesday,Dinner,Dal Khichdi,No,No,402,426,455,29
+2026-02-19,Thursday,Breakfast,Idli Sambar,Yes,No,426,306,327,16
+2026-02-19,Thursday,Lunch,Dal Rice,No,No,306,419,438,17
+2026-02-19,Thursday,Dinner,Roti Sabzi,No,No,419,460,494,37
+2026-02-20,Friday,Breakfast,Poha,No,No,460,417,430,12
+2026-02-20,Friday,Lunch,Biryani,No,No,417,517,560,42
+2026-02-20,Friday,Dinner,Roti Sabzi,No,No,517,515,537,19
+2026-02-21,Saturday,Breakfast,Aloo Paratha,No,No,515,461,485,24
+2026-02-21,Saturday,Lunch,Dal Rice,No,No,461,516,535,18
+2026-02-21,Saturday,Dinner,Chole Rice,No,No,516,514,536,27
+2026-02-22,Sunday,Breakfast,Poha,No,No,514,460,498,38
+2026-02-22,Sunday,Lunch,Dal Rice,No,No,460,503,530,29
+2026-02-22,Sunday,Dinner,Chole Rice,No,No,503,511,538,27
+2026-02-23,Monday,Breakfast,Upma,No,No,511,411,447,34
+2026-02-23,Monday,Lunch,Dal Rice,No,No,411,463,483,16
+2026-02-23,Monday,Dinner,Roti Sabzi,No,No,463,484,500,13
+2026-02-24,Tuesday,Breakfast,Idli Sambar,No,No,484,408,426,18
+2026-02-24,Tuesday,Lunch,Biryani,No,No,408,526,573,44
+2026-02-24,Tuesday,Dinner,Dal Khichdi,Yes,Yes,526,408,434,19
+2026-02-25,Wednesday,Breakfast,Upma,No,No,408,362,376,14
+2026-02-25,Wednesday,Lunch,Rajma Chawal,No,No,362,443,464,17
+2026-02-25,Wednesday,Dinner,Roti Sabzi,No,No,443,467,487,19
+2026-02-26,Thursday,Breakfast,Poha,No,Yes,467,391,423,30
+2026-02-26,Thursday,Lunch,Dal Rice,No,No,391,450,483,36
+2026-02-26,Thursday,Dinner,Chole Rice,No,No,450,521,544,23
+2026-02-27,Friday,Breakfast,Upma,No,No,521,443,470,32
+2026-02-27,Friday,Lunch,Rajma Chawal,No,No,443,518,537,20
+2026-02-27,Friday,Dinner,Chole Rice,No,No,518,551,586,32
+2026-02-28,Saturday,Breakfast,Idli Sambar,Yes,Yes,551,339,356,18
+2026-02-28,Saturday,Lunch,Rajma Chawal,No,No,339,412,429,9
+2026-02-28,Saturday,Dinner,Roti Sabzi,No,No,412,432,469,34
+2026-03-01,Sunday,Breakfast,Upma,Yes,No,432,251,268,17
+2026-03-01,Sunday,Lunch,Veg Pulao,No,No,251,331,354,23
+2026-03-01,Sunday,Dinner,Paneer Roti,No,No,331,391,413,22
+2026-03-02,Monday,Breakfast,Poha,No,No,391,375,393,15
+2026-03-02,Monday,Lunch,Dal Rice,No,No,375,424,449,26
+2026-03-02,Monday,Dinner,Chole Rice,No,No,424,484,500,12
+2026-03-03,Tuesday,Breakfast,Poha,No,No,484,441,468,26
+2026-03-03,Tuesday,Lunch,Dal Rice,No,No,441,521,549,29
+2026-03-03,Tuesday,Dinner,Dal Khichdi,No,No,521,517,546,29
+2026-03-04,Wednesday,Breakfast,Poha,No,No,517,454,470,18
+2026-03-04,Wednesday,Lunch,Rajma Chawal,No,No,454,532,558,30
+2026-03-04,Wednesday,Dinner,Roti Sabzi,No,No,532,516,535,19
+2026-03-05,Thursday,Breakfast,Upma,No,No,516,456,495,40
+2026-03-05,Thursday,Lunch,Biryani,No,No,456,517,540,23
+2026-03-05,Thursday,Dinner,Chole Rice,No,No,517,548,587,40
+2026-03-06,Friday,Breakfast,Aloo Paratha,No,No,548,499,542,45
+2026-03-06,Friday,Lunch,Rajma Chawal,No,No,499,570,609,37
+2026-03-06,Friday,Dinner,Paneer Roti,No,No,570,583,635,49
+2026-03-07,Saturday,Breakfast,Idli Sambar,No,No,583,535,566,35
+2026-03-07,Saturday,Lunch,Veg Pulao,No,No,535,561,592,35
+2026-03-07,Saturday,Dinner,Chole Rice,No,No,561,540,556,13
+2026-03-08,Sunday,Breakfast,Poha,No,Yes,540,415,430,15
+2026-03-08,Sunday,Lunch,Biryani,No,No,415,507,535,36
+2026-03-08,Sunday,Dinner,Paneer Roti,No,Yes,507,500,539,39
+2026-03-09,Monday,Breakfast,Upma,No,No,500,413,446,34
+2026-03-09,Monday,Lunch,Dal Rice,No,No,413,492,526,33
+2026-03-09,Monday,Dinner,Dal Khichdi,No,No,492,523,562,41
+2026-03-10,Tuesday,Breakfast,Poha,No,No,523,469,502,30
+2026-03-10,Tuesday,Lunch,Rajma Chawal,No,No,469,521,550,31
+2026-03-10,Tuesday,Dinner,Roti Sabzi,No,No,521,522,542,20
+2026-03-11,Wednesday,Breakfast,Aloo Paratha,Yes,Yes,522,363,375,13
+2026-03-11,Wednesday,Lunch,Dal Rice,No,No,363,438,468,35
+2026-03-11,Wednesday,Dinner,Roti Sabzi,No,Yes,438,401,433,32
+2026-03-12,Thursday,Breakfast,Poha,Yes,No,401,289,302,13
+2026-03-12,Thursday,Lunch,Biryani,No,No,289,467,491,18
+2026-03-12,Thursday,Dinner,Chole Rice,No,Yes,467,489,509,23
+2026-03-13,Friday,Breakfast,Idli Sambar,No,No,489,464,482,17
+2026-03-13,Friday,Lunch,Dal Rice,No,No,464,541,586,41
+2026-03-13,Friday,Dinner,Dal Khichdi,No,No,541,525,564,37
+2026-03-14,Saturday,Breakfast,Aloo Paratha,No,No,525,461,476,12
+2026-03-14,Saturday,Lunch,Veg Pulao,No,No,461,482,518,32
+2026-03-14,Saturday,Dinner,Dal Khichdi,No,No,482,471,494,25
+2026-03-15,Sunday,Breakfast,Aloo Paratha,No,Yes,471,401,418,17
+2026-03-15,Sunday,Lunch,Biryani,No,No,401,520,550,30
+2026-03-15,Sunday,Dinner,Chole Rice,Yes,No,520,453,472,17
+2026-03-16,Monday,Breakfast,Idli Sambar,Yes,No,453,307,319,12
+2026-03-16,Monday,Lunch,Dal Rice,No,No,307,388,401,19
+2026-03-16,Monday,Dinner,Dal Khichdi,No,No,388,416,452,29
+2026-03-17,Tuesday,Breakfast,Poha,No,Yes,416,313,325,15
+2026-03-17,Tuesday,Lunch,Biryani,No,No,313,467,482,16
+2026-03-17,Tuesday,Dinner,Paneer Roti,No,No,467,536,578,41
+2026-03-18,Wednesday,Breakfast,Upma,No,No,536,423,445,22
+2026-03-18,Wednesday,Lunch,Biryani,No,Yes,423,515,536,25
+2026-03-18,Wednesday,Dinner,Paneer Roti,No,No,515,551,582,31
+2026-03-19,Thursday,Breakfast,Upma,No,No,551,472,495,25
+2026-03-19,Thursday,Lunch,Biryani,No,No,472,555,582,29
+2026-03-19,Thursday,Dinner,Chole Rice,No,Yes,555,535,574,39
+2026-03-20,Friday,Breakfast,Upma,No,No,535,461,498,38
+2026-03-20,Friday,Lunch,Dal Rice,No,No,461,540,587,46
+2026-03-20,Friday,Dinner,Roti Sabzi,No,Yes,540,501,536,36
+2026-03-21,Saturday,Breakfast,Upma,Yes,No,501,271,287,18
+2026-03-21,Saturday,Lunch,Rajma Chawal,No,No,271,369,388,21
+2026-03-21,Saturday,Dinner,Roti Sabzi,No,Yes,369,358,379,21
+2026-03-22,Sunday,Breakfast,Idli Sambar,No,No,358,308,328,20
+2026-03-22,Sunday,Lunch,Biryani,No,Yes,308,409,433,24
+2026-03-22,Sunday,Dinner,Chole Rice,No,No,409,392,414,19
+2026-03-23,Monday,Breakfast,Upma,No,No,392,368,386,23
+2026-03-23,Monday,Lunch,Dal Rice,No,No,368,466,485,18
+2026-03-23,Monday,Dinner,Roti Sabzi,No,No,466,491,519,28
+2026-03-24,Tuesday,Breakfast,Upma,No,No,491,398,412,16
+2026-03-24,Tuesday,Lunch,Dal Rice,No,No,398,500,517,18
+2026-03-24,Tuesday,Dinner,Paneer Roti,No,No,500,558,576,17
+2026-03-25,Wednesday,Breakfast,Upma,No,No,558,486,521,37
+2026-03-25,Wednesday,Lunch,Veg Pulao,Yes,No,486,414,429,17
+2026-03-25,Wednesday,Dinner,Paneer Roti,No,Yes,414,453,491,37
+2026-03-26,Thursday,Breakfast,Aloo Paratha,No,Yes,453,381,400,18
+2026-03-26,Thursday,Lunch,Rajma Chawal,No,No,381,496,537,43
+2026-03-26,Thursday,Dinner,Chole Rice,No,No,496,500,519,20
+2026-03-27,Friday,Breakfast,Upma,No,No,500,443,482,42
+2026-03-27,Friday,Lunch,Biryani,No,No,443,515,543,31
+2026-03-27,Friday,Dinner,Dal Khichdi,Yes,No,515,389,422,37
+2026-03-28,Saturday,Breakfast,Idli Sambar,No,No,389,385,402,17
+2026-03-28,Saturday,Lunch,Dal Rice,No,No,385,454,469,15
+2026-03-28,Saturday,Dinner,Paneer Roti,No,No,454,497,528,31
+2026-03-29,Sunday,Breakfast,Idli Sambar,No,No,497,469,507,41
+2026-03-29,Sunday,Lunch,Dal Rice,Yes,No,469,407,442,35
+2026-03-29,Sunday,Dinner,Dal Khichdi,No,No,407,416,436,20
+2026-03-30,Monday,Breakfast,Idli Sambar,No,No,416,406,422,16
+2026-03-30,Monday,Lunch,Veg Pulao,No,Yes,406,427,453,26
+2026-03-30,Monday,Dinner,Paneer Roti,No,No,427,518,547,30
+2026-03-31,Tuesday,Breakfast,Poha,No,No,518,452,467,21
+2026-03-31,Tuesday,Lunch,Dal Rice,No,No,452,500,540,40
+2026-03-31,Tuesday,Dinner,Dal Khichdi,No,No,500,498,539,41
+2026-04-01,Wednesday,Breakfast,Poha,No,No,498,428,450,23
+2026-04-01,Wednesday,Lunch,Rajma Chawal,No,No,428,483,511,24
+2026-04-01,Wednesday,Dinner,Chole Rice,No,No,483,520,559,39
+2026-04-02,Thursday,Breakfast,Aloo Paratha,No,Yes,520,434,451,22
+2026-04-02,Thursday,Lunch,Rajma Chawal,No,No,434,516,553,35
+2026-04-02,Thursday,Dinner,Dal Khichdi,No,No,516,517,541,23
+2026-04-03,Friday,Breakfast,Poha,No,No,517,448,474,26
+2026-04-03,Friday,Lunch,Dal Rice,No,No,448,481,519,37
+2026-04-03,Friday,Dinner,Dal Khichdi,No,No,481,495,517,22
+2026-04-04,Saturday,Breakfast,Poha,No,No,495,416,439,25
+2026-04-04,Saturday,Lunch,Biryani,No,No,416,491,520,29
+2026-04-04,Saturday,Dinner,Dal Khichdi,No,No,491,420,455,35
+2026-04-05,Sunday,Breakfast,Aloo Paratha,No,Yes,420,361,382,22
+2026-04-05,Sunday,Lunch,Biryani,No,No,361,482,521,45
+2026-04-05,Sunday,Dinner,Chole Rice,No,No,482,478,517,39
+2026-04-06,Monday,Breakfast,Idli Sambar,No,No,478,437,466,29
+2026-04-06,Monday,Lunch,Rajma Chawal,No,No,437,520,542,20
+2026-04-06,Monday,Dinner,Dal Khichdi,No,No,520,490,525,33
+2026-04-07,Tuesday,Breakfast,Aloo Paratha,No,No,490,460,478,16
+2026-04-07,Tuesday,Lunch,Dal Rice,No,No,460,500,544,44
+2026-04-07,Tuesday,Dinner,Roti Sabzi,No,No,500,507,546,39
+2026-04-08,Wednesday,Breakfast,Poha,No,No,507,448,477,23
+2026-04-08,Wednesday,Lunch,Biryani,No,No,448,560,580,20
+2026-04-08,Wednesday,Dinner,Roti Sabzi,No,No,560,571,595,23
+2026-04-09,Thursday,Breakfast,Poha,No,No,571,480,523,44
+2026-04-09,Thursday,Lunch,Rajma Chawal,No,No,480,572,614,42
+2026-04-09,Thursday,Dinner,Paneer Roti,No,No,572,596,630,35
+2026-04-10,Friday,Breakfast,Idli Sambar,No,No,596,517,541,24
+2026-04-10,Friday,Lunch,Dal Rice,No,No,517,562,586,19
+2026-04-10,Friday,Dinner,Dal Khichdi,No,Yes,562,527,563,38
